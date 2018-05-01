@@ -1,3 +1,5 @@
+See: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+
 pwd 		-- show the absolute path starting at root
 
 ls 		-- show the files listed in the directory

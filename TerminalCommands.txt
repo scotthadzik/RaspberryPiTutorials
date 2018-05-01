@@ -1,0 +1,17 @@
+pwd 		-- show the absolute path starting at root
+
+ls 		-- show the files listed in the directory
+
+ls -a 		-- show the files listed in the directory including hidden files
+
+cd name 	-- change to directory example cd Downloads
+
+cd		-- go to home directory
+
+cd ..		-- go back one directory
+
+mkdir name 	-- make a directory with the called name
+
+rmdir name	-- remove a directory called name
+
+rm file		-- remove a directory 

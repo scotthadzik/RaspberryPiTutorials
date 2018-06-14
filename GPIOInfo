@@ -1,3 +1,8 @@
 GPIO interactive guide
 
 https://pinout.xyz/pinout/pin12_gpio18
+
+USE gpio readall to show the alternate numbers for the pins
+
+Python uses physical location
+C uses the wPi
